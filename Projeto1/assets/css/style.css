@@ -18,12 +18,10 @@ header{
    /*  background-position:center; */
     display: flex;
     margin: 0 auto;
-    padding: 2rem;
-
-    
-   
+    padding: 2rem;   
     height: 200px;
     width: 100%;
+    
     
     
     
@@ -88,7 +86,7 @@ section#thor div#info button{
     font-size: 1.3rem;
     font-weight: 600;
     background-color: #f0da17;
-    border: 2px solid #6c8e29;    
+    border: 2px solid #000000;    
     transition: all .5s ease-out;
     cursor: pointer;
     display: block;
@@ -110,9 +108,9 @@ section#thor div#info{
     background-color: rgba(17, 17, 17, 0.418);
     color: gray;
     font-size: .8vw;
-    height: 2vw;
+    height: 1vw;
     display: flex;
     justify-content:flex-end;
-    
+    padding-right: 1rem ;   
 
 }
